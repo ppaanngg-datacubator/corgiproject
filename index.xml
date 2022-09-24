@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello world! Welcome to corgi portfolio! on Corgi is happy</title>
+    <link>https://ppaanngg-datacubator.github.io/corgiproject/</link>
+    <description>Recent content in Hello world! Welcome to corgi portfolio! on Corgi is happy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jul 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://ppaanngg-datacubator.github.io/corgiproject/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Explore data &amp; Regression model</title>
+      <link>https://ppaanngg-datacubator.github.io/corgiproject/post/project1/</link>
+      <pubDate>Thu, 14 Jul 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://ppaanngg-datacubator.github.io/corgiproject/post/project1/</guid>
+      <description>this project is aim for XXXXXXXXXXXX Steps in model pipeline:
+Step1: Data Exploration &amp;amp; Cleaning Step2: Feature extraction Link to my Github</description>
+    </item>
+    
+    <item>
+      <title>Project II: Classification</title>
+      <link>https://ppaanngg-datacubator.github.io/corgiproject/post/project2/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://ppaanngg-datacubator.github.io/corgiproject/post/project2/</guid>
+      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ppaanngg-datacubator.github.io/corgiproject/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ppaanngg-datacubator.github.io/corgiproject/about/</guid>
+      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ppaanngg-datacubator.github.io/corgiproject/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ppaanngg-datacubator.github.io/corgiproject/contact/</guid>
+      <description>Follow me on social media!
+Plateform url Medium https://medium.com/datacubator </description>
+    </item>
+    
+  </channel>
+</rss>
